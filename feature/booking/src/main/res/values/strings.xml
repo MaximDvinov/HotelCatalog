@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="booking">Бронирование</string>
+    <string name="pay_with_price">Оплатить %1$s ₽</string>
+    <string name="tour">Тур</string>
+    <string name="fuel">Топливный сбор</string>
+    <string name="service">Сервисный сбор</string>
+    <string name="to_be_paid">К оплате</string>
+    <string name="add_tourist">Добавить туриста</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="birth">День рождения</string>
+    <string name="citizenship">Гражданство</string>
+    <string name="passport_number">Номер загранпаспорта</string>
+    <string name="passport_date">Срок действия загранпаспорта</string>
+    <string name="number_pattern">+7 (***) ***-**-**</string>
+    <string name="mail">Почта</string>
+    <string name="departure">Вылет из</string>
+    <string name="country">Страна, город</string>
+    <string name="date">Дата</string>
+    <string name="count_night">Кол-во ночей</string>
+    <string name="hotel">Отель</string>
+    <string name="room">Номер</string>
+    <string name="nutrition">Питание</string>
+    <string-array name="indexes">
+        <item>Первый</item>
+        <item>Второй</item>
+        <item>Третий</item>
+        <item>Четвертый</item>
+        <item>Пятый</item>
+        <item>Шестой</item>
+        <item>Седьмой</item>
+        <item>Восьмой</item>
+        <item>Девятый</item>
+        <item>Десятый</item>
+    </string-array>
+</resources>
